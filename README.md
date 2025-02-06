@@ -14,7 +14,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
 ## Paso 1: Descargar los archivos
 
 1. Haz clic en el siguiente enlace para descargar el archivo **`emailSender.zip`** que contiene todos los archivos necesarios:  
-   [Descargar emailSender.zip](https://drive.google.com/file/d/1z-V9cMx__AqlXeY7MxWlVU2c9GMZLPLs/view?usp=sharing)
+   [Descargar emailSender.zip](https://drive.google.com/file/d/1z-V9cMx__AqlXeY7MxWlVU2c9GMZLPLs/view?usp=sharing) Tener en cuenta que el correo desde el que se consulta el archivo debe ser del dominio ucentral.edu.co
 
 2. Extrae el contenido del archivo ZIP en una carpeta de tu elección.
 
